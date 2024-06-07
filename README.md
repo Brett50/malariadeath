@@ -1,1 +1,1 @@
-# malariadeath
+# Malaria death rate
